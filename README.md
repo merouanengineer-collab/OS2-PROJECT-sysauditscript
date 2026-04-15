@@ -199,4 +199,18 @@ Generate SSH keys and authorize them on your remote host (or `localhost` for tes
 -
 -- **Live Monitor** — interactive loop showing CPU, RAM, and process metrics continuously
 -- **Health Checks** — configurable thresholds trigger alerts when resources exceed defined limits
+
+## Concepts Covered (OS2 Course)
+
+This project demonstrates practical application of:
+
+- **Process Management** — querying and analyzing running processes, CPU scheduling data
+- **Filesystem & Permissions** — SUID/SGID detection, world-writable scanning, mount point analysis
+- **Memory Management** — reading /proc/meminfo, swap tracking, DIMM introspection
+- **I/O & Devices** — block device enumeration, USB detection, battery via sysfs
+- **Networking** — interface enumeration, socket state inspection, firewall rule reading
+- **System Calls & /proc** — direct reads from /proc/cpuinfo, /proc/uptime, /proc/net
+- **Shell Scripting** — modular design, signal handling, argument parsing, text processing
+
+---
 -
