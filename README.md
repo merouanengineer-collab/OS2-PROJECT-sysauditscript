@@ -4,7 +4,8 @@ A modular Bash-based solution for real-time monitoring and hardware auditing.
 Developed for the Operating Systems 2 course.
 
 ## 📸 Screenshot
-<img width="1800" height="450" alt="image" src="https://github.com/user-attachments/assets/c7a4a80e-983a-4ac6-b525-27f6a9ec16a7" />
+<img width="1390" height="299" alt="image" src="https://github.com/user-attachments/assets/5d460c5e-56c7-49de-a9e2-6b05677b816b" />
+
 
 *Caption: The main menu of the audit script showing system health.*
 
