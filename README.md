@@ -214,3 +214,9 @@ This project demonstrates practical application of:
 
 ---
 -
+there is also OPTION available before sending email testing smtp connectivity which send email to default email to confirm that email reach destination 
+<img width="952" height="402" alt="image" src="https://github.com/user-attachments/assets/1efe240b-ed54-498c-80e3-6f4541d9d839" />
+
+
+
+
