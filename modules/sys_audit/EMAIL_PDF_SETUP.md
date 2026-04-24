@@ -105,32 +105,32 @@ Now includes 7 comprehensive sections:
    - SUID/SGID files
    - Kernel modules
 
-3. **Security & Compliance** ⭐ NEW
+3. **Security & Compliance** 
    - Authentication & access control
    - File permissions & ownership
    - Security updates
    - AppArmor/SELinux status
 
-4. **Performance & Resource Analysis** ⭐ NEW
+4. **Performance & Resource Analysis
    - CPU performance metrics
    - Memory performance
    - Disk I/O statistics
    - Network performance
 
-5. **System Configuration Details** ⭐ NEW
+5. **System Configuration Details** 
    - Environment variables
    - Systemd services
    - Scheduled tasks (cron, timers)
    - Kernel parameters (sysctl)
    - Loaded modules
 
-6. **Logs & Diagnostics** ⭐ NEW
+6. **Logs & Diagnostics**
    - System errors
    - Authentication logs
    - Kernel messages (dmesg)
    - Disk usage analysis
 
-7. **Network Configuration** ⭐ NEW
+7. **Network Configuration** 
    - Active connections
    - ARP table
    - Configuration files
